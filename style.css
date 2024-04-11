@@ -1,0 +1,50 @@
+.navbar {
+    background: #0C70F2;
+    padding: 0px;
+}
+
+.mainText {
+    padding-top: 80px;
+    font-family: inter;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: normal;
+}
+
+#clouds {
+    padding-top: 50px;
+    width: 255px;
+    height: 197px;
+}
+
+#CEPResults {
+    padding-top: 50px;
+    width: 136px;
+    height: 133px;
+}
+
+#weatherResults {
+    padding-top: 50px;
+    width: 136px;
+    height: 133px;
+}
+
+.answer {
+    font-family: inter;
+    font-weight: 800;
+    margin-bottom: 0px;
+}
+
+.footer {
+    background: #0C70F2;
+    margin-top: 200px;
+    font-family: inter;
+    font-weight: 600;
+    color: white;
+    line-height: 300%;
+    text-align: end;
+}
+
+.footer p {
+    margin-right: 3%;
+}
